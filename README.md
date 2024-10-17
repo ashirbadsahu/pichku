@@ -1,4 +1,4 @@
-# Pikchu
+# Pichku
 A file compression and decompression tool.
 
 Algorithms implemented so far:
